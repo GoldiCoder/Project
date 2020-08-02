@@ -1,0 +1,23 @@
+h1 {
+text-shadow: 1px 3px 3px #FFFFFF;
+color: white;
+text-align: center;
+font-size: 50px;
+font-family: "Broadway";
+}
+h2 {
+margin-right: 130px;
+margin-left: 130px;
+font-size: 30px;
+margin-top: 20px;
+color: rgb(239,222,205);
+background-color: rgba(141,103,162,0.88);
+}
+  
+p{
+text-align: right; 
+color: white; 
+font-family: "Impact";
+font-size: 30px; 
+}
+ 
